@@ -1,2 +1,2 @@
 # weihgt-calc by cirill 
-link: 
+link:  https://kir1l.github.io/weihgt-calc/
