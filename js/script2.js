@@ -415,10 +415,6 @@ let ven = document.querySelector('#ven');
 ven.addEventListener('click', () => {
     mass(0.906)
 });
-let earth = document.querySelector('#earth');
-earth.addEventListener('click', () => {
-    mass(1)
-});
 let mars = document.querySelector('#mars');
 mars.addEventListener('click', () => {
     mass(0.378)
